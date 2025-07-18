@@ -12,8 +12,8 @@ An interactive React-based graph visualization tool for exploring cloud infrastr
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GIT_URL>
-   cd <YOUR_PROJECT_NAME>
+   git clonegit@github.com:shreedharbhat98/flow-renderer.git
+   cd flow-renderer
    ```
 
 2. **Install dependencies**
